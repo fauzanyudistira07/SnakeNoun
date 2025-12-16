@@ -1,0 +1,10 @@
+[
+  { "kata": "PINTU", "huruf": ["P", "I", "N", "T", "U"] },
+  { "kata": "KURSI", "huruf": ["K", "U", "R", "S", "I"] },
+  { "kata": "BUNGA", "huruf": ["B", "U", "N", "G", "A"] },
+  { "kata": "HIDUP", "huruf": ["H", "I", "D", "U", "P"] },
+  { "kata": "ANGIN", "huruf": ["A", "N", "G", "I", "N"] },
+  { "kata": "MURID", "huruf": ["M", "U", "R", "I", "D"] },
+  { "kata": "RUMAH", "huruf": ["R", "U", "M", "A", "H"] },
+  { "kata": "BESAR", "huruf": ["B", "E", "S", "A", "R"] }
+]
