@@ -6,5 +6,8 @@
   { "kata": "ANGIN", "huruf": ["A", "N", "G", "I", "N"] },
   { "kata": "MURID", "huruf": ["M", "U", "R", "I", "D"] },
   { "kata": "RUMAH", "huruf": ["R", "U", "M", "A", "H"] },
-  { "kata": "BESAR", "huruf": ["B", "E", "S", "A", "R"] }
+  { "kata": "BESAR", "huruf": ["B", "E", "S", "A", "R"] },
+  { "kata": "SAKIT", "huruf": ["S", "A", "K", "I", "T"] },
+  { "kata": "LAPOR", "huruf": ["L", "A", "P", "O", "R"] }
+
 ]

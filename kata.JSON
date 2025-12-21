@@ -3,5 +3,11 @@
   { "kata": "BUKU", "huruf": ["B", "U", "K", "U"] },
   { "kata": "KACA", "huruf": ["K", "A", "C", "A"] },
   { "kata": "BAJU", "huruf": ["B", "A", "J", "U"] },
-  { "kata": "TOPI", "huruf": ["T", "O", "P", "I"] }
+  { "kata": "TOPI", "huruf": ["T", "O", "P", "I"] },
+  { "kata": "SAPU", "huruf": ["S", "A", "P", "U"] },
+  { "kata": "BOLA", "huruf": ["B", "O", "L", "A"] },
+  { "kata": "BACA", "huruf": ["B", "A", "C", "A"] },
+  { "kata": "SAPA", "huruf": ["S", "A", "P", "A"] },
+  { "kata": "SUKU", "huruf": ["S", "U", "K", "U"] }
+
 ]

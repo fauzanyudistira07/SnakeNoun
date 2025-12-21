@@ -1,0 +1,12 @@
+[
+  { "kata": "KELUAR", "huruf": ["K", "E", "L", "U", "A", "R"] },
+  { "kata": "PINTAR", "huruf": ["P", "I", "N", "T", "A", "R"] },
+  { "kata": "HARIAN", "huruf": ["H", "A", "R", "I", "A", "N"] },
+  { "kata": "MELATI", "huruf": ["M", "E", "L", "A", "T", "I"] },
+  { "kata": "KANTOR", "huruf": ["K", "A", "N", "T", "O", "R"] },
+  { "kata": "TELPON", "huruf": ["T", "E", "L", "P", "O", "N"] },
+  { "kata": "SENANG", "huruf": ["S", "E", "N", "A", "N", "G"] },
+  { "kata": "AKURAT", "huruf": ["A", "K", "U", "R", "A", "T"] },
+  { "kata": "MODERN", "huruf": ["M", "O", "D", "E", "R", "N"] },
+  { "kata": "MINYAK", "huruf": ["M", "I", "N", "Y", "A", "K"] }
+]
